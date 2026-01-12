@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // 从 ES5 改为 ES6（核心修改）
+    "lib": ["ES6", "DOM"], // 新增 DOM（支持Webview的DOM API）
+    "module": "CommonJS",
+    "outDir": "out",
+    "rootDir": "src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": ["node_modules", ".vscode-test"]
+}
