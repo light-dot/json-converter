@@ -2,7 +2,7 @@
   "name": "json-converter",
   "displayName": "JSON Converter",
   "description": "JSON格式化、压缩、Unicode转换等功能的可视化工具",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "cz",
   "engines": {
     "vscode": "^1.80.0"

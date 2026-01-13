@@ -13,7 +13,14 @@ Security in case of vulnerabilities.
 
 ## [Unreleased]
 
-- Initial release
+
+
+## [1.0.1] - 2026-01-13
+
+### Fixed
+修复超长JSON导致的显示异常
+增加超长字段精简展示，并提供view all，点击后展示详情
+![JSON Converter界面](images/fixexample01.png)
 
 ## [1.0.0] - 2026-01-12
 
